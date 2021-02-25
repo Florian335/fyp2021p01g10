@@ -1,3 +1,21 @@
+commit f00a5f0105707a23e93b85773aa74dcd1e4b312b
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 16:31:14 2021 +0100
+
+    ...
+
+commit 76f8f104de2586edfc2b2e7f060f5875bab3a906
+Author: rubj <rubj@itu.dk>
+Date:   Thu Feb 25 16:28:09 2021 +0100
+
+    Last touches
+
+commit 27d8e6345f84ddca49a244289f1fba3eeb18af31
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Thu Feb 25 15:29:01 2021 +0100
+
+    Delete placeholder.txt
+
 commit 18db0f7498801efad9dc1ec894f3746744792851
 Author: rubj <rubj@itu.dk>
 Date:   Thu Feb 25 14:10:27 2021 +0100

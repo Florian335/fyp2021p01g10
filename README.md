@@ -1,5 +1,5 @@
 # First-Year-Project
-ITU First Year Project Group 10 
+ITU First Year Project Group 10  
 @developed together with Iben Huse, Louis Brandt, Kata Literáti-Dobos, Ruben Jonsman
 
 In this project, you will complete tasks similar to data scientists working for a department of transport
